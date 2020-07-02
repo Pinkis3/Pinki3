@@ -76,6 +76,7 @@ ul{
 }
 
 .wrapper .sidebar h2{
+  display: inline-block;
   text-transform: uppercase;
   text-align: center;
   margin-bottom: 30px;
